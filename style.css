@@ -1,12 +1,10 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
 .root {
   background-color: antiquewhite;
   min-height: 100vh;
+}
+
+input {
+  outline: 1px solid black;
 }
 
 input:valid {
